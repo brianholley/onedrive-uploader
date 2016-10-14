@@ -12,5 +12,5 @@ Easy onedrive uploader - I use this to upload 3d printer timelapses to OneDrive,
 
 ## References
 
-	- [OneDrive python SDK GitHub](https://github.com/onedrive/onedrive-sdk-python)
+	[OneDrive python SDK GitHub](https://github.com/onedrive/onedrive-sdk-python)
 
